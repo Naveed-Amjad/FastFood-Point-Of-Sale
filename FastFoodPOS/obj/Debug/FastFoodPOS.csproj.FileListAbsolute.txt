@@ -1,0 +1,11 @@
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\bin\Debug\FastFoodPOS.exe.config
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\bin\Debug\FastFoodPOS.exe
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\bin\Debug\FastFoodPOS.pdb
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.csproj.AssemblyReference.cache
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.Form1.resources
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.Properties.Resources.resources
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.csproj.GenerateResource.cache
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.exe
+C:\Users\navee\source\repos\FastFoodPOS\FastFoodPOS\obj\Debug\FastFoodPOS.pdb
